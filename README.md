@@ -10,7 +10,7 @@ Analyzing the weather data using Jupyter notebook, SQLite, SQLAlchemy, VS Code a
 - The lowest temperature in the month of June is 64
 - The maximum temperature in the month of June is 85
 - The median is 75
-- ![unique_title2.png](unique_title2.png)
+- ![June_output.png](June_output.png)
 #### December 
 - 1517 records of temperature for the month of December over the period of time were analyzed
 - The average temperature in any day in December is 71.04
@@ -18,6 +18,7 @@ Analyzing the weather data using Jupyter notebook, SQLite, SQLAlchemy, VS Code a
 - The minimum temperature ever recorded in the month of December is 56
 - The Maximum temperature ever recorded in the month of December is 83
 - The median is 71
+- ![December_output.png](December_output.png)
 ## Summary
 The analysis shows that the average temperature in the month of June and December are 74.9 and 71.04 respectively, this indicate that the both months are suitable for the surfing business. Even the minimum temperature in these two months are still perfect for surfing as far as it does not fall below 50˙
 However, additional information should be queried from the weather database to gain insight into windspeed and rainfall rate at these two months. These factors can inhibit the surfing business if they were not taken into the consideration.
