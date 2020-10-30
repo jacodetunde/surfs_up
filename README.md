@@ -10,6 +10,7 @@ Analyzing the weather data using Jupyter notebook, SQLite, SQLAlchemy, VS Code a
 - The lowest temperature in the month of June is 64
 - The maximum temperature in the month of June is 85
 - The median is 75
+- ![unique_title2.png](unique_title2.png)
 #### December 
 - 1517 records of temperature for the month of December over the period of time were analyzed
 - The average temperature in any day in December is 71.04
