@@ -1,6 +1,6 @@
 # surfs_up
 ## Overview
-Analyzing the weather data using Jupyter notebook, SQLite, SQLAlchemy, VS Code and flask to visualize the data as W.Avy prepared to open a surf shop
+Analyzing the weather data using Jupyter notebook, SQLite, SQLAlchemy, VS Code and flask to gain an insight into temperature trends for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round before W.Avy open the surf shop. 
 
 ## Results
 #### June
